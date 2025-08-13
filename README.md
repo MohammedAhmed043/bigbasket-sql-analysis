@@ -77,4 +77,4 @@ All datasets are located in the [`/data`](data) folder.
 
 ## 🔗 Direct Access to SQL Queries
 You can directly view all SQL queries used in this project here:  
-➡️ **[View SQL Queries](queries/bigbasket_queries.sql)**
+➡️ **[View SQL Queries](bigbasket_queries.sql)**
