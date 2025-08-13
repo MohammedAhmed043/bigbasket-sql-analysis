@@ -44,15 +44,17 @@ The project uses **three relational tables**:
 
 ---
 
+
 ## 📊 Sample Business Insights
 
-Here are **5 examples** of the insights generated in this project:
+Here are **5 key insights** generated from the analysis:
 
-1. **Top 10 selling products** by quantity and revenue  
-2. **Top 5 revenue-generating brands**  
-3. **City-wise revenue performance**  
-4. **Most loyal customers** based on total spending  
-5. **Products with high demand but potential stock issues**  
+1. **Top 10 products** with the highest sales volume and revenue contribution  
+2. **Top 5 brands** generating the most revenue across all categories  
+3. **City-wise sales performance** to identify high-revenue regions  
+4. **Most loyal customers** ranked by total spending and order frequency  
+5. **Category-wise average product rating** to understand customer satisfaction trends
+
 
 ---
 
