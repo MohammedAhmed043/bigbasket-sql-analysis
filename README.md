@@ -47,3 +47,8 @@ This analysis transforms raw sales and customer data into actionable business in
 
 ## 📂 Project Structure
 
+---
+
+## 📂 Dataset
+All datasets are located in the [`/data`](data) folder.
+
