@@ -1,4 +1,4 @@
-# 🛒 BigBasket SQL Case Study
+# 🛒 BigBasket SQL Analysis
 
 A hands-on SQL analytics project exploring BigBasket-style e-commerce data to uncover sales trends, customer behavior, product performance, and business insights.
 
