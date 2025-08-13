@@ -1,47 +1,61 @@
-# 🛒📊 BigBasket SQL Analysis
+# 🛒 BigBasket SQL Case Study
 
-A data-driven SQL project exploring **BigBasket’s sales trends, customer patterns, and product performance**.  
-This analysis transforms raw sales and customer data into actionable business insights that can help optimize inventory, marketing, and brand partnerships.
+A hands-on SQL analytics project exploring BigBasket-style e-commerce data to uncover sales trends, customer behavior, product performance, and business insights.
 
 ---
 
 ## 🎯 Key Objectives
 
-- 📈 Track sales revenue trends across time periods
-- 🏆 Identify top-selling products, categories, and brands
-- 👥 Segment customers based on spending patterns
-- ⭐ Analyze product ratings and popularity
-- 💰 Find high-value customers for loyalty targeting
-- 🔍 Apply core SQL skills to answer real business questions
+- Analyze customer behavior, orders, and purchasing trends
+- Identify top-selling products, brands, and categories
+- Track revenue performance and order statuses
+- Understand city-wise sales patterns
+- Practice SQL queries covering filtering, joins, aggregations, grouping, and subqueries
 
 ---
 
 ## 🛠️ Tech Stack
-![Database: MySQL](https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Language: SQL](https://img.shields.io/badge/Language-SQL-4B8BBE?style=for-the-badge)
+
+![Database: MySQL](https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![Language: SQL](https://img.shields.io/badge/Language-SQL-4B8BBE?style=for-the-badge)  
 ![Tool: MySQL Workbench](https://img.shields.io/badge/Tool-MySQL%20Workbench-F9A825?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🔍 SQL Concepts Practiced
+## 🔍 SQL Concepts Covered
 
-- Data selection & filtering with `WHERE`
+- Data selection & filtering (`WHERE`, `BETWEEN`, `IN`, `LIKE`)
 - Aggregations: `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`
-- Table joins: `INNER JOIN`, `LEFT JOIN`
-- Grouping & filtering with `GROUP BY`, `HAVING`
-- Ordering results with `ORDER BY` & `LIMIT`
+- Joins: `INNER JOIN`, `LEFT JOIN`
+- Grouping & filtering: `GROUP BY`, `HAVING`
+- Ordering results: `ORDER BY`, `LIMIT`
+- Basic subqueries (`IN`, `NOT IN`, `EXISTS`)
 - Null value handling
-- Basic subqueries for advanced filtering
 
 ---
 
-## 📌 Top 5 Business Insights
+## 📑 Dataset Description
 
-1. **Top-Spending Customers** – Found the highest revenue-generating customers to target with premium offers.  
-2. **Best-Selling Category** – Revealed which category drives the largest share of revenue for inventory focus.  
-3. **Brand Leaderboard** – Ranked brands by sales volume and revenue to identify key partners.  
-4. **Rating vs Sales Relationship** – Checked whether higher-rated products actually sell more.  
-5. **Monthly Revenue Trend** – Discovered sales spikes and slowdowns to inform seasonal campaigns.  
+The project uses **four relational tables**:
+
+- **products** – Product details like name, category, brand, price, stock
+- **customers** – Customer personal and location details
+- **orders** – Order details, total amount, and status
+- **order_items** – Item-wise order details, quantity, and price
+
+📄 **[View Complete Data Dictionary](DATA_DICTIONARY.md)**
+
+---
+
+## 📊 Sample Business Insights
+
+Here are **5 examples** of the insights generated in this project:
+
+1. **Top 10 selling products** by quantity and revenue
+2. **Top 5 revenue-generating brands**
+3. **City-wise revenue performance**
+4. **Most loyal customers** based on total spending
+5. **Products with low stock but high demand**
 
 ---
 
