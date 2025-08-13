@@ -42,6 +42,9 @@ The project uses **three relational tables**:
 - **customers** – Customer personal and location details
 - **orders** – Order details including quantity and date
 
+📄 **[View Complete Data Dictionary](DATA_DICTIONARY.md)**
+
+
 ---
 
 
