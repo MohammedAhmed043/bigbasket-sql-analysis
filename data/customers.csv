@@ -1,0 +1,21 @@
+customer_id,name,city,join_date
+1,Customer 1,Hyderabad,2024-02-16
+2,Customer 2,Delhi,2023-11-21
+3,Customer 3,Pune,2023-03-15
+4,Customer 4,Hyderabad,2024-04-18
+5,Customer 5,Bangalore,2024-03-20
+6,Customer 6,Chennai,2024-02-16
+7,Customer 7,Chennai,2023-12-07
+8,Customer 8,Delhi,2023-07-11
+9,Customer 9,Hyderabad,2024-06-03
+10,Customer 10,Mumbai,2023-05-14
+11,Customer 11,Mumbai,2024-04-06
+12,Customer 12,Mumbai,2024-09-29
+13,Customer 13,Mumbai,2024-06-27
+14,Customer 14,Chennai,2024-10-09
+15,Customer 15,Pune,2023-03-27
+16,Customer 16,Delhi,2024-11-02
+17,Customer 17,Delhi,2023-01-27
+18,Customer 18,Chennai,2024-03-05
+19,Customer 19,Hyderabad,2023-12-30
+20,Customer 20,Mumbai,2023-12-24

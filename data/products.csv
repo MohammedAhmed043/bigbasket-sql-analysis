@@ -1,0 +1,51 @@
+product_id,product,category,sub_category,brand,sale_price,market_price,type,rating,description
+1,Amul Snacks Product 1,Snacks,Snacks Sub 4,Amul,123.92,130.44,Frozen,3.53,High quality snacks product from Amul.
+2,Haldiram Personal Care Product 2,Personal Care,Personal Care Sub 4,Haldiram,337.97,392.99,Packaged,3.84,High quality personal care product from Haldiram.
+3,Amul Beverages Product 3,Beverages,Beverages Sub 4,Amul,347.21,428.66,Packaged,3.55,High quality beverages product from Amul.
+4,Haldiram Dairy Product 4,Dairy,Dairy Sub 2,Haldiram,279.72,317.86,Fresh,4.69,High quality dairy product from Haldiram.
+5,Amul Personal Care Product 5,Personal Care,Personal Care Sub 2,Amul,220.67,286.58,Packaged,4.5,High quality personal care product from Amul.
+6,Amul Vegetables Product 6,Vegetables,Vegetables Sub 4,Amul,222.71,244.74,Frozen,4.72,High quality vegetables product from Amul.
+7,Haldiram Beverages Product 7,Beverages,Beverages Sub 2,Haldiram,158.68,206.08,Packaged,4.58,High quality beverages product from Haldiram.
+8,Haldiram Personal Care Product 8,Personal Care,Personal Care Sub 3,Haldiram,225.8,289.49,Fresh,3.8,High quality personal care product from Haldiram.
+9,Nestle Vegetables Product 9,Vegetables,Vegetables Sub 2,Nestle,334.56,367.65,Frozen,4.21,High quality vegetables product from Nestle.
+10,Britannia Bakery Product 10,Bakery,Bakery Sub 3,Britannia,290.42,367.62,Packaged,3.67,High quality bakery product from Britannia.
+11,Britannia Beverages Product 11,Beverages,Beverages Sub 1,Britannia,41.46,53.84,Frozen,3.92,High quality beverages product from Britannia.
+12,Dabur Beverages Product 12,Beverages,Beverages Sub 4,Dabur,272.24,349.03,Frozen,3.98,High quality beverages product from Dabur.
+13,Tata Dairy Product 13,Dairy,Dairy Sub 3,Tata,73.97,86.01,Packaged,4.74,High quality dairy product from Tata.
+14,Dabur Dairy Product 14,Dairy,Dairy Sub 3,Dabur,124.94,145.28,Fresh,3.92,High quality dairy product from Dabur.
+15,Amul Fruits Product 15,Fruits,Fruits Sub 4,Amul,113.35,143.48,Fresh,4.4,High quality fruits product from Amul.
+16,Haldiram Beverages Product 16,Beverages,Beverages Sub 5,Haldiram,318.73,413.94,Fresh,3.54,High quality beverages product from Haldiram.
+17,Tata Bakery Product 17,Bakery,Bakery Sub 4,Tata,69.05,77.58,Fresh,4.72,High quality bakery product from Tata.
+18,Amul Dairy Product 18,Dairy,Dairy Sub 2,Amul,63.42,78.3,Frozen,3.99,High quality dairy product from Amul.
+19,Dabur Snacks Product 19,Snacks,Snacks Sub 5,Dabur,130.71,150.24,Packaged,4.86,High quality snacks product from Dabur.
+20,Tata Bakery Product 20,Bakery,Bakery Sub 3,Tata,338.56,445.48,Packaged,4.59,High quality bakery product from Tata.
+21,Tata Vegetables Product 21,Vegetables,Vegetables Sub 1,Tata,133.1,141.6,Frozen,4.92,High quality vegetables product from Tata.
+22,Britannia Beverages Product 22,Beverages,Beverages Sub 4,Britannia,71.61,86.28,Fresh,4.22,High quality beverages product from Britannia.
+23,Tata Personal Care Product 23,Personal Care,Personal Care Sub 2,Tata,128.96,169.68,Frozen,3.65,High quality personal care product from Tata.
+24,Nestle Snacks Product 24,Snacks,Snacks Sub 5,Nestle,216.22,273.69,Packaged,4.78,High quality snacks product from Nestle.
+25,Haldiram Dairy Product 25,Dairy,Dairy Sub 2,Haldiram,144.32,176.0,Frozen,4.47,High quality dairy product from Haldiram.
+26,Haldiram Vegetables Product 26,Vegetables,Vegetables Sub 2,Haldiram,328.58,432.34,Packaged,4.22,High quality vegetables product from Haldiram.
+27,Tata Fruits Product 27,Fruits,Fruits Sub 2,Tata,342.56,398.32,Frozen,3.6,High quality fruits product from Tata.
+28,Haldiram Snacks Product 28,Snacks,Snacks Sub 5,Haldiram,246.46,320.08,Frozen,4.03,High quality snacks product from Haldiram.
+29,Nestle Beverages Product 29,Beverages,Beverages Sub 4,Nestle,47.9,53.22,Packaged,3.76,High quality beverages product from Nestle.
+30,Britannia Bakery Product 30,Bakery,Bakery Sub 3,Britannia,193.62,245.09,Packaged,4.62,High quality bakery product from Britannia.
+31,Nestle Dairy Product 31,Dairy,Dairy Sub 1,Nestle,361.53,430.39,Fresh,4.32,High quality dairy product from Nestle.
+32,Dabur Vegetables Product 32,Vegetables,Vegetables Sub 1,Dabur,184.44,216.99,Fresh,4.97,High quality vegetables product from Dabur.
+33,Parle Fruits Product 33,Fruits,Fruits Sub 4,Parle,346.72,417.73,Frozen,3.91,High quality fruits product from Parle.
+34,Amul Bakery Product 34,Bakery,Bakery Sub 3,Amul,282.43,362.09,Packaged,3.85,High quality bakery product from Amul.
+35,Haldiram Dairy Product 35,Dairy,Dairy Sub 4,Haldiram,67.66,85.65,Fresh,3.97,High quality dairy product from Haldiram.
+36,Britannia Snacks Product 36,Snacks,Snacks Sub 4,Britannia,212.24,258.83,Fresh,4.6,High quality snacks product from Britannia.
+37,Nestle Personal Care Product 37,Personal Care,Personal Care Sub 5,Nestle,366.97,417.01,Fresh,4.12,High quality personal care product from Nestle.
+38,Parle Beverages Product 38,Beverages,Beverages Sub 2,Parle,110.65,117.71,Packaged,3.76,High quality beverages product from Parle.
+39,Nestle Fruits Product 39,Fruits,Fruits Sub 3,Nestle,373.8,473.16,Packaged,4.69,High quality fruits product from Nestle.
+40,Parle Dairy Product 40,Dairy,Dairy Sub 4,Parle,234.1,292.62,Frozen,4.77,High quality dairy product from Parle.
+41,Parle Personal Care Product 41,Personal Care,Personal Care Sub 5,Parle,310.19,337.16,Fresh,4.36,High quality personal care product from Parle.
+42,Parle Vegetables Product 42,Vegetables,Vegetables Sub 4,Parle,78.15,102.83,Frozen,4.04,High quality vegetables product from Parle.
+43,Haldiram Vegetables Product 43,Vegetables,Vegetables Sub 1,Haldiram,162.92,208.87,Fresh,4.27,High quality vegetables product from Haldiram.
+44,Dabur Beverages Product 44,Beverages,Beverages Sub 2,Dabur,308.19,350.22,Fresh,4.32,High quality beverages product from Dabur.
+45,Haldiram Personal Care Product 45,Personal Care,Personal Care Sub 1,Haldiram,273.05,328.98,Packaged,3.55,High quality personal care product from Haldiram.
+46,Parle Bakery Product 46,Bakery,Bakery Sub 3,Parle,461.03,485.3,Packaged,4.29,High quality bakery product from Parle.
+47,Nestle Bakery Product 47,Bakery,Bakery Sub 3,Nestle,70.21,75.5,Fresh,3.78,High quality bakery product from Nestle.
+48,Tata Snacks Product 48,Snacks,Snacks Sub 5,Tata,302.57,336.19,Fresh,4.95,High quality snacks product from Tata.
+49,Britannia Beverages Product 49,Beverages,Beverages Sub 2,Britannia,61.76,66.41,Frozen,4.09,High quality beverages product from Britannia.
+50,Parle Dairy Product 50,Dairy,Dairy Sub 3,Parle,93.37,106.1,Frozen,4.16,High quality dairy product from Parle.
