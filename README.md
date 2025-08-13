@@ -1,44 +1,49 @@
-🛒 BigBasket SQL Analysis
-This project is a hands-on SQL case study analyzing product performance, customer behavior, and sales trends using a BigBasket-style dataset.
-The analysis covers top customers, best-selling products, category-wise revenue, brand performance, and seasonal trends using a variety of SQL concepts — including joins, subqueries, aggregations, and grouping.
+# 🛒📊 BigBasket SQL Analysis
 
-🎯 Key Objectives
-Analyze customer purchase behavior and spending patterns.
+A data-driven SQL project exploring **BigBasket’s sales trends, customer patterns, and product performance**.  
+This analysis transforms raw sales and customer data into actionable business insights that can help optimize inventory, marketing, and brand partnerships.
 
-Identify top-performing products, categories, and brands.
+---
 
-Understand monthly/seasonal sales trends.
+## 🎯 Key Objectives
 
-Calculate revenue, ratings, and product performance metrics.
+- 📈 Track sales revenue trends across time periods
+- 🏆 Identify top-selling products, categories, and brands
+- 👥 Segment customers based on spending patterns
+- ⭐ Analyze product ratings and popularity
+- 💰 Find high-value customers for loyalty targeting
+- 🔍 Apply core SQL skills to answer real business questions
 
-Segment customers for targeted marketing.
+---
 
-Work with real-world SQL business problems using multiple joined tables.
+## 🛠️ Tech Stack
+![Database: MySQL](https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Language: SQL](https://img.shields.io/badge/Language-SQL-4B8BBE?style=for-the-badge)
+![Tool: MySQL Workbench](https://img.shields.io/badge/Tool-MySQL%20Workbench-F9A825?style=for-the-badge&logo=mysql&logoColor=white)
 
-Practice SQL concepts like filtering, grouping, subqueries, and aggregations.
+---
 
-🛠️ Tech Stack
-Database: MySQL
+## 🔍 SQL Concepts Practiced
 
-Language: SQL
+- Data selection & filtering with `WHERE`
+- Aggregations: `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`
+- Table joins: `INNER JOIN`, `LEFT JOIN`
+- Grouping & filtering with `GROUP BY`, `HAVING`
+- Ordering results with `ORDER BY` & `LIMIT`
+- Null value handling
+- Basic subqueries for advanced filtering
 
-Tool: MySQL Workbench
+---
 
-Dataset Source: Kaggle (BigBasket Dataset)
+## 📌 Top 5 Business Insights
 
-🔍 Key SQL Concepts Covered
-Data selection and filtering with WHERE
+1. **Top-Spending Customers** – Found the highest revenue-generating customers to target with premium offers.  
+2. **Best-Selling Category** – Revealed which category drives the largest share of revenue for inventory focus.  
+3. **Brand Leaderboard** – Ranked brands by sales volume and revenue to identify key partners.  
+4. **Rating vs Sales Relationship** – Checked whether higher-rated products actually sell more.  
+5. **Monthly Revenue Trend** – Discovered sales spikes and slowdowns to inform seasonal campaigns.  
 
-Aggregation: COUNT, SUM, AVG, MAX, MIN
+---
 
-Joins: INNER JOIN, LEFT JOIN
+## 📂 Project Structure
 
-Grouping: GROUP BY, HAVING
-
-Null value handling
-
-Subqueries and nested filtering
-
-Sorting and limiting results with ORDER BY, LIMIT
-
-Combining multiple conditions with AND / OR
