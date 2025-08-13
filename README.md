@@ -65,9 +65,8 @@ bigbasket-sql-analysis/
 ├── data/
 │ └── bigbasket_data.sql # Dataset containing all tables & sample records
 │
-├── queries/
-│ └── bigbasket_queries.sql # All SQL queries used for analysis
-│
+├── bigbasket_queries.sql # All SQL queries used for analysis
+│ 
 └── README.md # Project documentation
 
 ---
