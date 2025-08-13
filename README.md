@@ -36,14 +36,11 @@ A hands-on SQL analytics project exploring BigBasket-style e-commerce data to un
 
 ## 📑 Dataset Description
 
-The project uses **four relational tables**:
+The project uses **three relational tables**:
 
-- **products** – Product details like name, category, brand, price, stock
+- **products** – Product details like name, category, brand, price, type, rating
 - **customers** – Customer personal and location details
-- **orders** – Order details, total amount, and status
-- **order_items** – Item-wise order details, quantity, and price
-
-📄 **[View Complete Data Dictionary](DATA_DICTIONARY.md)**
+- **orders** – Order details including quantity and date
 
 ---
 
@@ -51,18 +48,33 @@ The project uses **four relational tables**:
 
 Here are **5 examples** of the insights generated in this project:
 
-1. **Top 10 selling products** by quantity and revenue
-2. **Top 5 revenue-generating brands**
-3. **City-wise revenue performance**
-4. **Most loyal customers** based on total spending
-5. **Products with low stock but high demand**
+1. **Top 10 selling products** by quantity and revenue  
+2. **Top 5 revenue-generating brands**  
+3. **City-wise revenue performance**  
+4. **Most loyal customers** based on total spending  
+5. **Products with high demand but potential stock issues**  
 
 ---
 
 ## 📂 Project Structure
+
+bigbasket-sql-analysis/
+│
+├── data/
+│ └── bigbasket_data.sql # Dataset containing all tables & sample records
+│
+├── queries/
+│ └── bigbasket_queries.sql # All SQL queries used for analysis
+│
+└── README.md # Project documentation
 
 ---
 
 ## 📂 Dataset
 All datasets are located in the [`/data`](data) folder.
 
+---
+
+## 🔗 Direct Access to SQL Queries
+You can directly view all SQL queries used in this project here:  
+➡️ **[View SQL Queries](queries/bigbasket_queries.sql)**
